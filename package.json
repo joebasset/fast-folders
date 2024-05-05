@@ -1,0 +1,17 @@
+{
+  "name": "fast-folders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joebasset/InstaFolders.git"
+  },
+  "author": "Joe Basset - Anacron",
+  "license": "MIT",
+  "scripts": {
+    "index": "node index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
