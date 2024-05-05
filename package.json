@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joebasset/InstaFolders.git"
+    "url": "git+https://github.com/joebasset/fast-folders.git"
   },
   "author": "Joe Basset - Anacron",
   "license": "MIT",

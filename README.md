@@ -3,11 +3,11 @@
 [![npm version](https://badge.fury.io/js/your-package-name.svg)](https://badge.fury.io/js/your-package-name)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-A comprehensive tool for creating various entities and components in your project with ease.
+A seemless tool for creating tidy folders for react components in your project with ease.
 
 ## Description
 
-Your Package Name is a versatile command-line tool designed to streamline the creation of various entities and components in your project. Whether you're building a web application, mobile app, or any other software project, this tool simplifies the process of generating files and directories, saving you time and effort during development.
+Inspiration taken from laravel php artisan make commands, pass a couple of arguments as js or ts and the folder structure and the component will be created for you with css file imported and an index file.
 
 ## Features
 
@@ -31,8 +31,8 @@ yarn add fast-folders
 
 ## Usage
 
-To create a new entity, use the following command:
+To create a new component HomeComponent.tsx under the folder HomeComponent with index.ts file and a styles.css filder inside the home feature folder src/Features/Home/components/HomeComponent, use the following command:
 
 ```bash
-yarn create Features Home components HomeComponent
+yarn create ts Features Home components HomeComponent
 ```
